@@ -14,8 +14,8 @@ layout: PostLayout
 author: content/data/team/person-iousvzb9n.json
 ---
 Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
-        
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+
+> Vestibulum ullamcorper risus auctor eleifend consequat. 666
 
 ![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
 
